@@ -1,0 +1,32 @@
+{
+  "name": "poole-client",
+  "description": "Poole Client, a promise-based wrapper for PooleApp.com",
+  "version": "1.0.0",
+  "author": {
+    "name": "Andy Shora",
+    "email": "andyshora@gmail.com"
+  },
+  "contributors": [],
+  "keywords": [
+    "poole",
+    "pooleapp",
+    "promise",
+    "api",
+    "rest"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/andyshora/poole-node"
+  },
+  "license": "MIT",
+  "homepage": "http://expressjs.com/",
+  "dependencies": {
+    "q": "~1.0.1",
+    "request": "~2.44.0"
+  },
+  "devDependencies": {},
+  "engines": {
+    "node": ">= 0.10.0"
+  },
+  "readmeFilename": "README.md"
+}
