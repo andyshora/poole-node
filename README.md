@@ -14,7 +14,7 @@ Usage
 Require client from node:
 
 ```javascript
-var poole = require('poole');
+var poole = require('poole-client');
 ```
 
 Get data via get() function, then access success and error handlers using the async callbacks:

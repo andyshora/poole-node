@@ -1,7 +1,7 @@
 {
   "name": "poole-client",
   "description": "Poole Client, a promise-based wrapper for PooleApp.com",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "author": {
     "name": "Andy Shora",
     "email": "andyshora@gmail.com"
