@@ -19,7 +19,7 @@
     "url": "git://github.com/andyshora/poole-node"
   },
   "license": "MIT",
-  "homepage": "http://expressjs.com/",
+  "homepage": "https://github.com/andyshora/poole-node/blob/master/README.md",
   "dependencies": {
     "q": "~1.0.1",
     "request": "~2.44.0"
